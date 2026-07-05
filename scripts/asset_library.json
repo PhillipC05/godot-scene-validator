@@ -1,0 +1,14 @@
+{
+  "title": "Scene Validator",
+  "description": "Scans the currently open scene for common mistakes before they become runtime errors: broken NodePath references, unset @export Node/Resource values, orphaned signal connections (script removed or renamed), and ownerless nodes that get silently dropped on save. Results appear in a dockable bottom panel with a jump-to-node button on every row. Optional automatic re-scan on scene save.",
+  "category_id": "5",
+  "godot_version": "4.3",
+  "version_string": "1.0.0",
+  "cost": "MIT",
+  "download_provider": "GitHub",
+  "download_commit": "REPLACE_WITH_TAG",
+  "browse_url": "https://github.com/REPLACE_WITH_USER/godot-scene-validator",
+  "issues_url": "https://github.com/REPLACE_WITH_USER/godot-scene-validator/issues",
+  "icon_url": "REPLACE_WITH_HOSTED_ICON_PNG_URL",
+  "download_url": "https://github.com/REPLACE_WITH_USER/godot-scene-validator/archive/refs/tags/REPLACE_WITH_TAG.zip"
+}
